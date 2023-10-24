@@ -1,4 +1,8 @@
-### Hi there 👋
+### Cathedral of Junk
+
+:wrench: A collection of random apps and works in progress
+
+
 
 <!--
 **vergeman/vergeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
